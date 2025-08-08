@@ -12,4 +12,9 @@ dojo = str(input("dame el nombre del dojo"))
 nombreHeroe = str(input("dame el nombre del heroe"))
 apellidoHeroe = str(input("dame el apellido del heroe"))
 
+print("El regreso")
 print("La serie sigue la historia de"+nombrePrincipal+" "+apellidoPrincipal+,"exestudiante del dojo Cobra Kai,")
+print("quien busca la redencion reabriendo el infame dojo y reavivando, en el proceso,")
+print("su rivalidad con un ahora exitoso "+nombreHeroe+" "+apellidoHeroe")
+print(" Este enemigo ha estado luchando por mantener el equilibrio en su vida sin la guía de su mentor, el señor Miyagi. La serie trata sobre dos hombres que enfrentan sus demonios del pasado y resuelven las frustraciones del presente de la única manera en que saben hacerlo: a través del karate.")
+
